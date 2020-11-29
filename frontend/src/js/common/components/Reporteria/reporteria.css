@@ -1,0 +1,99 @@
+.rep-header{
+     color: white;
+     text-transform: capitalize;
+     padding: 1.4rem 0;
+     border: none;
+}
+
+.rep-bg-orange{
+     background: #ff4f00;
+}
+
+.rep-bg-blue {
+     color: white;
+     background: #0571cd;
+}
+
+.rep-bg-gray{
+     color: white;
+     background: rgb(167, 167, 167);
+}
+
+.rep-bg-gray2{
+     color: rgb(0, 0, 0);
+     background: rgb(212, 212, 212);
+}
+
+.rep-alligned-sup{
+     padding-top: 35px !important;
+     vertical-align: bottom  !important;
+     text-align: center !important;
+}
+
+
+.rep-borde{
+     border: none !important;
+}
+
+.rep-txt-center{
+     text-align: center;
+     text-justify: center;
+}
+
+.rep-space{
+    height: 2rem !important;
+}
+
+.rep-padd{
+     padding: 6rem 0;
+}
+
+.rep-date-w{
+     max-width: 30%;
+}
+
+.rep-border-solid {
+     border: rgb(41, 41, 41) solid 1px !important;
+}
+
+.rep-DayPicker-Months{
+     transform: translate3d(-140px, 0px, 0px) !important;
+}
+
+.rep-DayPicker-border{
+     border: "2px solid black";
+     border-radius: "12px";
+     padding-right: "35px",
+}
+
+@media (max-width:414px){
+.rep-DayPicker-Months{
+     transform: translate3d(0px, 60px, 0px) !important;
+}
+}
+
+/* Seccion para estilos de reporte por programador */
+/* .rv-xy-plot__axis__tick__text{
+     fill: #ff4f00 !important;
+     font-size: 11px !important;
+     font-weight: bolder !important;
+} */
+
+.rv-xy-plot__axis__line {
+    fill: none !important;
+    stroke-width: 6px !important;
+    stroke: #0c0c9e !important;
+}
+
+.rv-xy-plot__axis__tick__line {
+     stroke: none !important;
+}
+
+/* seccion de estilo para reporte Control soporte */
+.rep_form_control{
+     border: "2px solid black";
+     border-radius: "12px";
+     padding-right: "35px";
+     padding-left: '20px';
+     max-height: '32px';
+}

@@ -1,0 +1,33 @@
+.fila-blanca {
+    background: white 0% 0% no-repeat padding-box;
+}
+
+.fila-gris {
+    background: #e5e5e5 0% 0% no-repeat padding-box;
+}
+
+.grid-head {
+    background: #b3b8bc 0% 0% no-repeat padding-box !important;
+    border-radius: 15px;
+}
+
+.grid-head th {
+
+    color: white;
+    text-transform: UpperCase;
+    text-align: center !important;
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+    font-size: 12px !important;
+    font-family: "Montserrat-Bold" !important;
+}
+
+h3 {
+    color: #003c71;
+    font-weight: bold !important;
+    text-transform: uppercase;
+}
+
+.grid-width{
+    width: 100% !important;
+}

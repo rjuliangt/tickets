@@ -1,0 +1,82 @@
+
+.dash_card-resumen{
+     background: rgb(229, 229, 229);
+     min-height: 15px;
+     font-weight: bold;
+     color:  #ff4f00;
+     border-radius: 20px;
+     padding: 1rem;
+     border: 10px solid #fff;
+     text-align: center;
+     justify-content:space-between;
+     width: 95px;
+     height: 90px;
+     text-transform: capitalize;
+ }
+
+ .dash_card-title{
+     /* background: rgb(255, 255, 255);
+     min-height: 15px;
+     font-weight: bold;
+     color: rgb(0, 60, 113);
+     /* padding: 1rem; */
+     border: 10px solid #fff;
+     /* text-align: center; */
+     /* justify-content:space-between; */
+     text-transform: uppercase;
+     /* font-size: 17pt; */
+     font-weight: bold;
+     padding-top: 20px !important;
+
+ }
+
+ .dash_card-resumen2{
+     background: rgb(229, 229, 229);
+     min-height: 15px;
+     font-weight: bold;
+     color:  #ff4f00;
+     border-radius: 20px;
+     padding: 1rem;
+     border: 10px solid #fff;
+     text-align: center;
+     justify-content:space-between;
+     width: 95px;
+     height: 150px;
+ }
+
+.dash_card_inside{
+
+     text-align: center;
+     color: black;
+     font-size: 15pt;
+     font-weight: bold;
+     padding-top: 10px !important;
+}
+
+.dash_card_inside_puntuacion{
+
+    text-align: center;
+    color: rgb(0, 60, 113);
+    font-size: 15pt;
+    font-weight: bold;
+    padding-top: 10px !important;
+}
+
+.dash_card_puntuacion{
+    color: rgb(0, 60, 113);
+
+}
+ 
+.box2 {
+     flex-grow: 2;
+     width: 190px;
+     height: 150px;
+  
+   }
+
+.box3 {
+     flex-grow: 2;
+     width: 200px;
+     background:  ffffff;
+
+   }

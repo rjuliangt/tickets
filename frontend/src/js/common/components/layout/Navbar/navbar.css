@@ -1,0 +1,10 @@
+.navbar-profile.dropdown-menu{
+     min-width: 210px;
+     transform: translate3d(-90px, 60px, 0px) !important;
+}
+
+@media (max-width:414px){
+.navbar-profile.dropdown-menu{
+     transform: translate3d(0px, 60px, 0px) !important;
+}
+}

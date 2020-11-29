@@ -1,0 +1,1043 @@
+[33mcommit 2eb616dc1eb1ff23812c297c47d05ce533e15289[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/modalPropiedadesTicket[m[33m, [m[1;31morigin/feature/modalPropiedadesTicket[m[33m)[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Sep 8 00:42:36 2020 -0600
+
+    PROPIEDAD_TICKET, se agrego a cada uno el Show_Modal y aun a si se bugea :( jajaja
+
+[33mcommit ef2d98ca63a7e1773516d999fe962ead4f8baf41[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Sep 8 00:24:52 2020 -0600
+
+    funciona los 4 modales, pero se bugea por el ShowMODAL
+
+[33mcommit 4ff2c3f2f844c95224b5e2412d63e02c238cf112[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Mon Sep 7 23:39:22 2020 -0600
+
+    funciona TIPOS, ETIQUETAS, en modal, todo full
+
+[33mcommit 7dd66c72f7324e5b0a0a4add8b6b26c87059a181[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Mon Sep 7 16:05:47 2020 -0600
+
+    se arreglo un error
+
+[33mcommit 3836555e7d70302f08a26510310a094d914764bd[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Mon Sep 7 15:47:35 2020 -0600
+
+    se creo el diseNo solo falta limitar el ASUNTO, y se borro el archivo DATOSSTATICOS.js, ya que todo es base de datos ahora
+
+[33mcommit 008aa066329a1d5817ea2ffa62ce47e981788958[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Mon Sep 7 13:28:49 2020 -0600
+
+    Cambios
+
+[33mcommit 58422dece4d0b4f41ae922201de1edb8935aa2ba[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Sep 3 00:42:19 2020 -0600
+
+    Funcionalidad n proyectos
+
+[33mcommit 294548cb047748bebc3deb2f94db706eb02e3402[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Sep 2 23:31:08 2020 -0600
+
+    Funcional entrega 03092020
+
+[33mcommit d3342e238c53297bace4152d900485d34b80c1ed[m
+Merge: 5ac90b9 a2c7d28
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Sep 2 22:56:46 2020 -0600
+
+    Merge branch 'feature/CSS' into develop
+
+[33mcommit a2c7d281c5fe19b4486601fada3906d45816af57[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Sep 2 22:54:45 2020 -0600
+
+    agregando styles
+
+[33mcommit 3bd22e2b9bf888cba8fb7976e0ae3ee029bc702e[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Sep 2 22:43:50 2020 -0600
+
+    add CSS
+
+[33mcommit 5ac90b96369b97b941eec8ee1f334d8c97968cf3[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Sep 2 22:24:56 2020 -0600
+
+    funciona el modal de Cerrar TICKET
+
+[33mcommit 94e50a54e5aa8c8f1153de6de924c883c656653a[m
+Merge: 1749fd9 9cd4904
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Sep 2 15:27:22 2020 -0600
+
+    Merge branch 'feature/2Tareas' into develop
+
+[33mcommit 1749fd9d75fa05e0e2190e4753fb1fe324c5bccc[m
+Merge: 440a844 4a1d30a
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Sep 2 15:17:28 2020 -0600
+
+    Merge branch 'feature/12CreacionTicket' into develop
+
+[33mcommit 9cd4904062337fdee20147d13d4ee637d686bfa7[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Sep 2 15:15:11 2020 -0600
+
+    agregando Css
+
+[33mcommit ba79583a7beca832b3e0eaa4e601eaa75310e463[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Sep 2 01:01:43 2020 -0600
+
+    Agregando estilos
+
+[33mcommit 4a1d30a943d845359d19be9ea9689c406e263793[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Sep 1 17:58:59 2020 -0600
+
+    le agregue un If al momento de actualizar para poder abrir el MODAL
+
+[33mcommit 82fbe60fa57f14629757e8723729c65a9e444685[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Sep 1 17:30:57 2020 -0600
+
+    se borro la propiedad de >editandoComentario< ya que al final ya no seuuso
+
+[33mcommit ce2dbb631ee796423ba347c1e9efc264f0086881[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Sep 1 17:25:11 2020 -0600
+
+    ya no funcionaba ACTUALIZAR TICKET, pero ahora ya anda al tiro jajaja
+
+[33mcommit c1b48fa90971b720380bff6bd4a5fafc76d3e5cd[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Sep 1 16:49:41 2020 -0600
+
+    COMENTARIO: se ordena por la FECHA DE ACTUALIZACION, ya fuciona el btn de actualizar COMENTARIO,
+
+[33mcommit 11750cb35f8413f0477a1a08b66122336d1892b8[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Sep 1 16:37:16 2020 -0600
+
+    al momento de ACTUALIZAR EL COMENTARIO, ya me redirige al ticket, Falta el boton de EDITAR COMENTARIO
+
+[33mcommit e4002a841109d5c34aa0a4d07a45a7969401051d[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Sep 1 16:02:41 2020 -0600
+
+    funciona el Url, solo fatla redireccionar al momento de dar EDITAR COMENTARIO, y luego de editar redirigir otra vez a la ventana de ticket
+
+[33mcommit 93c869282dc81e7fa2cf8f95d51b99c0bfb42f95[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Sep 1 14:57:24 2020 -0600
+
+    se agregue el URL de editar comentario
+
+[33mcommit 1ef42d8a04b03d7347baff59a08ac63a67920d46[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Mon Aug 31 19:40:35 2020 -0600
+
+    se que usuario tiene sesion, y dejo editar su comentario, falta crear la vista para modificar el comentario ya que eso pidieron
+
+[33mcommit 5539011ef0eb5a032288f9837fc156b6673252a8[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Mon Aug 31 14:05:12 2020 -0600
+
+    query backend funciona
+
+[33mcommit 8263dc15768cc4fa222191d31c7356ec9b3f85ba[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Mon Aug 31 02:14:02 2020 -0600
+
+    COMENTARIOS: solo falta recetear el BTN CREAR  depuse de darle ACTUALIZAR
+
+[33mcommit 35af6e34f2a7f751c17f9be99bf5da869106dc8f[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Mon Aug 31 01:37:52 2020 -0600
+
+    funciona el boton Editarcomentario, pero al momento de Actualizar no funciona, ya que en el componente no tenemos la funcion EDITAR(COMENTARIO), la funcion se confunde con EDITAR(TICKET) por eso da bug jajaja, cosas de la vida, intentare de conectar CREATECONECT a INDEXeditarticket, para que pueda tomar respectivamente sus funciones
+
+[33mcommit 440a8442a4bf650805ef93cfe9e6d1cd4b9dcfe7[m
+Merge: 8d97d2a ee90764
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sun Aug 30 21:52:08 2020 -0600
+
+    Merge branch 'feature/11creacionTicket' into develop
+
+[33mcommit ee90764257d1e20a273cf065e66ab03c5c5f335b[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sun Aug 30 21:48:38 2020 -0600
+
+    se le creeo formulario al ticket Editar DESCRIPCION, ASUNTO
+
+[33mcommit 1a1ca5ba5c58c62f262d4091c2e399c06708cc87[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sun Aug 30 01:37:18 2020 -0600
+
+    se mejoro el dato de la fecha de publicacion
+
+[33mcommit 6c1b79fe33b6e37b18239ea1e4e0ca5751a66101[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sun Aug 30 01:32:47 2020 -0600
+
+    Genial, COMENTARIO, full, MAPEAR,FILTRAR,CREAR
+
+[33mcommit 01eff8e29fa06fff9e2a0b867248f0772a9344d1[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 29 23:14:05 2020 -0600
+
+    Se mapea en tiempo real Al crear el ticket v0.02, falta diseno etc
+
+[33mcommit 8d97d2a30844117e0d70ca607fc178a34a5eecd2[m
+Merge: f5cb3cc 0567afd
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 29 20:43:07 2020 -0600
+
+    Merge branch 'feature/10creacionTicket' into develop
+
+[33mcommit 0567afd0b8bb079f14a0c79c72873406af6571ee[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 29 20:42:18 2020 -0600
+
+    se listo los comentarios, falta filtrarlos :)
+
+[33mcommit b716682fd45cdd72a3970d5c025b29faeeda2bbb[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 29 19:40:52 2020 -0600
+
+    se creo carptea para comentarios
+
+[33mcommit 8baefbc78a0ad2a74663caee0b1e892d8fc606ca[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 29 19:31:33 2020 -0600
+
+    diseno de comentario
+
+[33mcommit 7c7911558c4b86931cbea7bfd9c2ba680ba11ae6[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 29 16:09:24 2020 -0600
+
+    se cambio el redux de comentarios a la misma de las propiedades de ticket y se le coloco el metodo de crear ticket de diferente manera
+
+[33mcommit 3525f3205c83874620fbef24730492a14c855590[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 29 15:52:52 2020 -0600
+
+    se paso CREAR COMENATARIO a su archivo respectivo, falta mejorarlo,
+
+[33mcommit 525a9924fbe0d37d9c87b00eb471a47958878fbd[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 29 15:23:06 2020 -0600
+
+    Crear ticket se colo en su respectivo archivo
+
+[33mcommit 2f1f8755e3d0023d0c5dc779cc19189456307795[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 29 13:09:19 2020 -0600
+
+    se elimino una bandera para el multi Select de Etiquetas, que no se usaba
+
+[33mcommit b75cac518634cfadb5b6a73bb33d9d95f7b58731[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 29 12:51:43 2020 -0600
+
+    Limpie el baseRedux de propiedades
+
+[33mcommit 6df66d72709e10b0001ac3f4c8f3f7bf89089c5b[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 29 02:12:50 2020 -0600
+
+    funciona el backEnd saber comentarios de los tickets por id
+
+[33mcommit 82f425d70a24c687863ae71fccf522d14b6b7aa2[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 29 02:00:20 2020 -0600
+
+    funciona Crear COMENTARIO, falta mapear los comentarios
+
+[33mcommit 1d7bbd6c767df2c911c5e84fb2a82afcae531354[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 29 00:28:50 2020 -0600
+
+    funciona el create Select, y se creo el Modelo de comentario y serializer
+
+[33mcommit f5cb3cca36ac6e56fe58b1a7ca59a63b1941d93a[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 27 21:39:15 2020 -0600
+
+    Luis: brach funcional
+
+[33mcommit c8aa9e0718a9a84f2ede8d4949f539a50ea770d0[m
+Merge: 0fbbd64 6eb1b25
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 27 21:25:00 2020 -0600
+
+    Uniendo Branchs
+
+[33mcommit 6eb1b2561183bda80eff9d34667e164d457d734d[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 27 21:14:39 2020 -0600
+
+    uniendo react Quill no funcional con backend
+
+[33mcommit 0fbbd64471682a29d824fa1871d624cb2f0eb73f[m
+Merge: 18c84ce 6ccae4b
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 27 20:14:05 2020 -0600
+
+    Merge branch 'feature/7creacionTicket' into develop
+
+[33mcommit 6ccae4b4522fcbac4e3a057fcf820b82d51d50b5[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 27 09:37:30 2020 -0600
+
+    Solo falta el filtro por los Usuario X3
+
+[33mcommit 479496ccc37b787dda403ade5139c1a4a478fabd[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 27 09:13:53 2020 -0600
+
+    backEnd, se modifico solo devuelve nombre y id de userx3
+
+[33mcommit cfc33fc5fff73305f70df2659a554a8b48525d45[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 27 08:52:48 2020 -0600
+
+    sirve modificar ticket
+
+[33mcommit 7f7b4c83a7d4f5d394a81e1ce987ba9c520671e5[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 27 03:09:23 2020 -0600
+
+    funciona Crear ticket asignando datos
+
+[33mcommit f6c18f418da321483cb7c130c2f521a50a49a6ce[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 27 02:53:20 2020 -0600
+
+    funciona el select Agente, falta mapear datos
+
+[33mcommit 71975181f57c1715ff4039edaa45e7e7d7e1125c[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 27 02:08:20 2020 -0600
+
+    se arreglo el error de traer user null para que no se congele el FrontEnd
+
+[33mcommit f7f4fe8781eb08858ba4348c46b3768f5854e810[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 27 01:45:19 2020 -0600
+
+    se modifico el modelo de ticket, para agregar los 3 user
+
+[33mcommit 18c84ceccf9a42e837078f11cd126b596925728b[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 27 01:26:28 2020 -0600
+
+    se crearon los filtros chidos
+
+[33mcommit db30ae1d1ebc7590d78472281243c110ee221fa2[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 26 22:05:23 2020 -0600
+
+    se activo editar TICKET
+
+[33mcommit da14b41435a10df3a0094cc8c530855a06e2aed0[m
+Merge: b20edd4 44ba0df
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 26 22:01:21 2020 -0600
+
+    Merge branch 'feature/5creacionTicket' into develop
+
+[33mcommit 44ba0df2544727d729e133fcf496d7bd3f2c4a65[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 26 21:38:22 2020 -0600
+
+    Tiene un Bug, el Create Select, EDITAR-TICKET
+
+[33mcommit 54c40dcd516c9f4cc0b8c1bbcb5946a12e6592b4[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 26 12:24:27 2020 -0600
+
+    Funciona Create Etiquetas
+
+[33mcommit e9401dac54cf517a1f937789a56d0b99049b3ca3[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 26 02:02:58 2020 -0600
+
+    Etiquetas, solo falta Crear etiquetas
+
+[33mcommit 803b6aafa724340fa61f8ded4021f222e1b9d7de[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 26 00:43:21 2020 -0600
+
+    backEnd de etiquetas
+
+[33mcommit 9e685c181d6f8e8db1dca0d5ab9a2479fdd664d2[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Tue Aug 25 22:58:34 2020 -0600
+
+    componente quill es funcional
+
+[33mcommit 240a8e16b29a70e5133634e2deab601e3cbdd853[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Aug 25 15:50:47 2020 -0600
+
+    se activo el otro color
+
+[33mcommit 5258c505dcb2f56b8a86f36036049a768ad89c00[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Aug 25 14:50:07 2020 -0600
+
+    Se activo los colores v0.5
+
+[33mcommit b20edd4a8fd51c8d90a82b1a252dbcf5f91ded6a[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Aug 25 00:25:19 2020 -0600
+
+    Se agrego todo Actualizar, Crear, Buscar Cards full v0.08
+
+[33mcommit 8bfe99f519ae51a6c03d166e7ec49f913388c9cd[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Mon Aug 24 22:52:55 2020 -0600
+
+    se arreglo el error de Todos, en select
+
+[33mcommit 3de59063f0259cd7bc19ee12110bf12252a039a8[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Mon Aug 24 15:08:13 2020 -0600
+
+    upDate Npm
+
+[33mcommit 1c8e7c6dafeb5a557d37d7b352f959085d0a7891[m
+Merge: 97369d1 0c1e8bc
+Author: arlex <arlexcaal@gmail.com>
+Date:   Mon Aug 24 14:48:20 2020 -0600
+
+    Merge branch 'feature/3creacionTicket' into develop
+
+[33mcommit 0c1e8bc26540a97ab2c3ea46cd88f228f76cce55[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Mon Aug 24 02:24:00 2020 -0600
+
+    solo falta que muestre el valor,de EDITAR= PROPIEDADES V0.07
+
+[33mcommit 095c558f66a8b868235a2abfbae5e8907bbe5112[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Mon Aug 24 02:08:10 2020 -0600
+
+    Crear Ticket Full v0.06, ahora falta el de Editar
+
+[33mcommit 29beb1d7a27b9c6d354ad70f0e87c1034ba18b21[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Mon Aug 24 00:56:42 2020 -0600
+
+    index Cards, FILTRO full v0.07
+
+[33mcommit 2113a580ec94922e8d6267ee0616678cb2e5f6b6[m
+Merge: 6c293f9 13ba111
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sun Aug 23 23:47:37 2020 -0600
+
+    Merge branch 'feature/3creacionTicket' of https://bitbucket.org/Luisgo48/ticktesrepo into feature/3creacionTicket
+
+[33mcommit 6c293f9896c32578beb3eddacfae025d16add8a9[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sun Aug 23 23:45:09 2020 -0600
+
+    se activo el sidebar
+
+[33mcommit 13ba1113a55e10a88eea05830f497cd760c1a6fb[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sun Aug 23 23:45:09 2020 -0600
+
+    se activo el sidebar
+
+[33mcommit b24272d744c2910a7c71362cb368d121b5d65bff[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sun Aug 23 19:42:36 2020 -0600
+
+    se termino el crud de propiedades ticket, v0.07
+
+[33mcommit 287c2bfabd1261e2f64cf252a0ad5e30f7bb8756[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sun Aug 23 19:18:54 2020 -0600
+
+    funciona propiedades TIPO V0.05
+
+[33mcommit 3e3a88986f9b1d5e7937f5306cd18bb0d5d94599[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sun Aug 23 12:42:09 2020 -0600
+
+    se termino la V0.03 de TIPOS, PRIORIDADES
+
+[33mcommit 664fa9f41386f3d29e8ec5ac57a2ddbc2d8e0fb0[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sun Aug 23 02:05:26 2020 -0600
+
+    se agrego algunas propiedades del ticket desde el backEnd, falta hacer que funcione xd
+
+[33mcommit 5467f1dfeb3fdf09a0f888cc72a916b9bd89bcf6[m
+Merge: da741a3 9809aec
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sun Aug 23 00:16:56 2020 -0600
+
+    Merge branch 'feature/3creacionTicket' of https://bitbucket.org/Luisgo48/ticktesrepo into feature/3creacionTicket
+
+[33mcommit da741a35b1f1b0893e33b4091462d26c34e976aa[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 22 23:44:14 2020 -0600
+
+    se termino de ordenar, CARPETAS TICKET
+
+[33mcommit 9809aec7f3777c4549de743026ba89dbf307b63a[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 22 23:44:14 2020 -0600
+
+    se termino de ordenar, CARPETAS TICKET
+
+[33mcommit ed9fbce555482ec9ac570075eb40dac44bfb700a[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 22 23:31:39 2020 -0600
+
+    carpeta ticket Crear
+
+[33mcommit b4f69a572a2d64b4243bfbe91d3ad5ee52fa284a[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 22 14:06:29 2020 -0600
+
+    cambiando nombre de algunos archivos y carpetas Ticket
+
+[33mcommit d4a5de7afcfce7056545030bfb2a8a937691c0fb[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 22 13:46:43 2020 -0600
+
+    se limpio indexEditarTicket, todo genial
+
+[33mcommit 97369d1b3e606bd36e3f334075844725ce0ebb31[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Fri Aug 21 09:28:05 2020 -0600
+
+    Funcional usuarios
+
+[33mcommit 6fd380e5feefd1219939a83ee3b67b6da1937a9a[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 20 09:52:41 2020 -0600
+
+    commit con errores
+
+[33mcommit 953216d215c9f4cd04e66ea9c0e6a26f0186978a[m
+Merge: 0fc29eb 53008f8
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 20 09:23:54 2020 -0600
+
+    Uniendo branch Wilson 20082020
+
+[33mcommit 0fc29eb1d9dace49ef5ab23fca033315e3cffcd0[m
+Merge: 1261494 a6b151f
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 20 09:03:58 2020 -0600
+
+    Merge branch 'feature/FormUser' into develop
+
+[33mcommit a6b151f678af8056ca638793ce37b4e5ac15792e[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 20 08:57:53 2020 -0600
+
+    Agregando mi update
+
+[33mcommit 53008f8d1a546aa975937eef7c73da841fe96990[m[33m ([m[1;31morigin/feature/2creactionTicket[m[33m, [m[1;32mfeature/2creactionTicket[m[33m)[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 20 01:29:06 2020 -0600
+
+    funciona los ticket cards, EDITAR(algunos campos), falta ver que archivos estoy usando jaja ya es tarde hacerlo manana
+
+[33mcommit c91b69fbea923c44703cd61678bb0a36571dc97d[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Aug 19 12:13:32 2020 -0600
+
+    Usuarios Funcional
+
+[33mcommit a11cf944233ed95c006fe9c28516e6b2e4ccdd1e[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 19 11:12:56 2020 -0600
+
+    funcion al filtro SELECT_SEARCH DE GRUPOS, falta traer los datos de la web
+
+[33mcommit c209ccb837cba1238d5cd6c0e0d3f602b2ea038f[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 19 01:50:57 2020 -0600
+
+    no funciona el select por SEARCH, pero si funciona todo en la CONSOLA, pero tampoco cambia los datos del select
+
+[33mcommit db358df1e156b0ff63da895ec2b49f8ceef03d48[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 19 00:04:46 2020 -0600
+
+    se coloco el imput de BUSCAR que vacia los SELECT al usarlo
+
+[33mcommit 3589436779ed6f2e018189cff6519bc6393c7bf4[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Tue Aug 18 22:45:33 2020 -0600
+
+    Funciona Front
+
+[33mcommit ff45090b8213cf5245b36ea542c3958004c7f497[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Aug 18 22:03:40 2020 -0600
+
+    se agrego colores, a lAS PRIORIDADES
+
+[33mcommit d62f3313774be717ab5fdee04e1d50bef5ac870a[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Aug 18 17:04:11 2020 -0600
+
+    full filtro, de ESTADO, PRIORIDAD
+
+[33mcommit b70e56132732b4b5069241264aa7d852927e3c61[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Aug 18 16:33:03 2020 -0600
+
+    funciona el filtro, ahora falta agruparle lo que es paginacion
+
+[33mcommit 2c1658a32cdb3d61830dc57195ed678554b73606[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Aug 18 16:05:46 2020 -0600
+
+    ya se creo como una herencia del BASE_REDUCER
+
+[33mcommit 21476d87b996fe16c62ff44ededf02c3d6d7e3e2[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Aug 18 13:07:44 2020 -0600
+
+    es antes de hacer el traspaso del reducer
+
+[33mcommit c8959fd99eeffa0ffd5880c5eba204719653beaf[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Aug 18 02:22:47 2020 -0600
+
+    jajaja pense que eran las 10pm jajaja :V ya va queriendo el filtrado xd
+
+[33mcommit 7c0e5511277293c4db5763276e2dbb3da6a6959b[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sun Aug 16 15:59:48 2020 -0600
+
+    se agrego unas dependencias que no se guardaron que raro :(
+
+[33mcommit 344fec94f57efc10df8474b6a7297e6712aac319[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Sat Aug 15 23:58:47 2020 -0600
+
+    se cambio los svg a iconos que ya estaban importados
+
+[33mcommit 1261494f0b24f864620f15e0a72fcc50e6ff0a27[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Fri Aug 14 15:35:00 2020 -0600
+
+    se arreglo los errores que tenia al enviar el email
+
+[33mcommit a9d4381258b754b19d713aca14ddb9ec45e1c69c[m
+Merge: 34e8625 739336a
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Fri Aug 14 12:41:09 2020 -0600
+
+    Uniendo branchs
+
+[33mcommit 34e86251eb435d4b1c73ea0911b930108b36ad39[m
+Merge: a6015d8 95dc54f
+Author: arlex <arlexcaal@gmail.com>
+Date:   Fri Aug 14 12:25:43 2020 -0600
+
+    Merge branch 'feature/contrasenaTemporalEmail' into develop
+
+[33mcommit 739336ae70a36cae86a28bc6d951c40a6e1419cb[m[33m ([m[1;31morigin/feature/llavesUser[m[33m)[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Fri Aug 14 09:59:17 2020 -0600
+
+    agregando CRUD Usuarios llaves foraneas
+
+[33mcommit 95dc54f85cfad9100f9a1dd69b7b6f4f64164251[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Fri Aug 14 01:40:39 2020 -0600
+
+    terminado full 4k todo, lo de cambio de contrasena, Temporal
+
+[33mcommit 2cc963e235e32b7ebbf82ea8cec794772a81a408[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Fri Aug 14 01:05:09 2020 -0600
+
+    cambiar la contrasena React funciona, ahora falta la Api
+
+[33mcommit a6015d8b7d8576796a3fa811fac6c7338bb0aca2[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 13 16:43:04 2020 -0600
+
+    resolviendo conflictos
+
+[33mcommit b59575e3e8ee2eaeb9f3ded8155a3b7cb0d052a7[m
+Merge: e5152d0 23e1d84
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 13 16:27:27 2020 -0600
+
+    Uniendo branch Luis
+
+[33mcommit e5152d0a2e5482d5449f07c4d809598c8d144eb7[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 13 16:16:40 2020 -0600
+
+    Uniendo features
+
+[33mcommit 23e1d847df357470101e11a590799aea69875439[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 13 16:12:39 2020 -0600
+
+    Crear con foraneas
+
+[33mcommit a6176d96fffe45455006d61a40bbe2a681c084ba[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 13 09:29:05 2020 -0600
+
+    mejoro un poco el cards
+
+[33mcommit 95ffb76c51974a6444526022fd50fcafdb98824d[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 13 08:42:38 2020 -0600
+
+    leyendo desde una lista
+
+[33mcommit 17e99c1f0783f51b3e179fcde9210c5cd8f66f8a[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 13 02:35:01 2020 -0600
+
+    se creo un Listado para ver los tickets como Cards, los datos no estaticos son, ASUNTO, FECHA DE CREACION, falta modificar los demas
+
+[33mcommit 4e9b0ce39ca7b8c8ee7e96e925a0f47ee3e433ad[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 13 00:16:32 2020 -0600
+
+    se creo el FrontEnd de ticket v0.005
+
+[33mcommit f51eef5a817a24ad976250b518fd6b54a85c2173[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 12 17:27:41 2020 -0600
+
+    se agrego el backEnd de ticket
+
+[33mcommit bec3f3e51c05c1c4debcd1dc28bbf85b67a432a1[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 12 15:12:40 2020 -0600
+
+    se desactivo el envio del email, tambien el tipo de rol para mientras
+
+[33mcommit b93cdc5c8ce0f8fb78e9de15441d9bc053bb5dfb[m
+Merge: 0d883a3 969a45c
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 12 14:46:04 2020 -0600
+
+    aceptando cambios
+
+[33mcommit 0d883a3c7dad05150b9de335fcf848059da427f1[m
+Merge: fe15acc b2c25aa
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 12 14:37:19 2020 -0600
+
+    Merge branch 'feature/confirmacionCorreo' into develop
+
+[33mcommit 969a45c056b156e328efd7fc429ef459012b0b0d[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Aug 12 14:30:51 2020 -0600
+
+    Commit forzado
+
+[33mcommit b2c25aa7dcbf439fdf557016400bebfdf75354b2[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 12 14:21:10 2020 -0600
+
+    se modifico la notificacion del sideBard, se centro
+
+[33mcommit 9dc9b2959c0bb830c5bae5f574b9b153076936b4[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Aug 12 11:02:21 2020 -0600
+
+    CRUD usuarios funcional
+
+[33mcommit 45ce4bc55f3f3fc19c2a330c5b765887ffee8242[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Aug 12 10:57:33 2020 -0600
+
+    registro desde front esta bien
+
+[33mcommit 5397f7a359c6eb8cedaa5141e15be08c125cc49c[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Aug 12 09:48:48 2020 -0600
+
+    Error en registrar usuarios desde adentro
+
+[33mcommit a7336bacbf1ed66d759c07a7f0f62cf41b7c0ea1[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Aug 12 07:48:53 2020 -0600
+
+    error en update y create de usuarios
+
+[33mcommit 1afa5fad0c1397e3893e6c17ae8ddac26b7c048a[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 12 02:11:53 2020 -0600
+
+    se debe mejorar el mensaje en el sideBar donde dice VALIDAR CORREO
+
+[33mcommit d72dd38361809490fc547fb79e2d69e157c44eb9[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 12 01:36:40 2020 -0600
+
+    se ha el componente de validacion de correo en React todo full
+
+[33mcommit b8e91efd8c848e5b42da7bedeb31274e6e9e69ec[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Tue Aug 11 16:50:47 2020 -0600
+
+    se agrego el template full para enviarlo por email y funciona la aapi del email,
+    Solo falta hacer el FrontEnd para que recibia bien chido el token :V
+
+[33mcommit fe15accde09d4dd881464e25d70373c543a7306c[m
+Merge: f2e4956 e3aa68c
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Tue Aug 11 15:42:24 2020 -0600
+
+    Merge branch 'feature/register' into develop
+
+[33mcommit e3aa68c3a871bd4e1ecc667efd6a799ebdeef663[m[33m ([m[1;31morigin/feature/register[m[33m)[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Tue Aug 11 10:43:03 2020 -0600
+
+    Empresas funcional sin bitacora
+
+[33mcommit f96252551b4e772e24a96e0e60badc566174d11c[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Tue Aug 11 10:21:53 2020 -0600
+
+    Agregando bitacora
+
+[33mcommit c3dacec9432d1e51205f50c8a8b5666170088742[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Tue Aug 11 09:12:42 2020 -0600
+
+    LUIS: Form usuarios funcional
+
+[33mcommit e306239ebb5c817e1405bb603da45a4cb0cabcad[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Mon Aug 10 23:30:57 2020 -0600
+
+    login Verification, pensar si pasarlo por el reducer
+
+[33mcommit 77d3e406b355e006846f69dd05046a83af6898f8[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Mon Aug 10 22:06:47 2020 -0600
+
+    se agrego el link en la confirmacion de correo
+
+[33mcommit 33a36445a7b858fc1adf32fc6eb462a7d4091fb2[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Mon Aug 10 21:16:43 2020 -0600
+
+    se regreso un commit, se arreglo el error
+
+[33mcommit d8e86caa768ca422e79b77b63322024a62dfde07[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Mon Aug 10 16:53:38 2020 -0600
+
+    LUIS: feature error
+
+[33mcommit 200dc6970ef26219ada229c513718f7b7de4c0c7[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Mon Aug 10 00:30:41 2020 -0600
+
+    LUIS: Frontend Configuracion Usuarios
+
+[33mcommit f2e4956c844fbb3c32e047f72f4c9db82e0a576d[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Sun Aug 9 15:26:59 2020 -0600
+
+    Format al codigo
+
+[33mcommit eccf46750d7ef689e91ba32d988eed4468d1cef1[m
+Merge: c8c936d ca767a3
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Sun Aug 9 13:23:26 2020 -0600
+
+    Merge con feature Roles
+
+[33mcommit c8c936d5f141e0e514bfebf89432ec9be4fd26f1[m
+Merge: d8638f4 7fd719f
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Sun Aug 9 11:25:50 2020 -0600
+
+    Merge branch 'feature/login' into develop
+
+[33mcommit 7fd719f319222b5a8c393aaf142deb9efad6c29e[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Sun Aug 9 11:10:04 2020 -0600
+
+    Ultimo commit antes de finalizar
+
+[33mcommit 064b3fe2efbeb79649080ff1176846c449ffaa21[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 6 09:38:42 2020 -0600
+
+    Se le agrego contrasena de api al email
+
+[33mcommit 4be83b317278c2bc7080b734f15d74e22d80c586[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 6 09:20:14 2020 -0600
+
+    MErge Funcional
+
+[33mcommit 0f47f63c5ffaa5a9cd473c955dad7e47a6080450[m
+Merge: ec9286c a679960
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 6 09:17:27 2020 -0600
+
+    Merge
+
+[33mcommit ec9286cc04d88270581c1664a5721a128af07924[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 6 09:15:55 2020 -0600
+
+    Prueba realizada
+
+[33mcommit 5664b1f5209af5b702023de97ef84597e7a21bb0[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 6 09:07:58 2020 -0600
+
+    Se agrego requirements.txt
+
+[33mcommit a679960bd3e50d96b879d1b56a79634d217b62ae[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 6 08:58:43 2020 -0600
+
+    Tabla de vista usuarios funcional
+
+[33mcommit 081578ff2215063c0755b41b28c0ab0ad9824478[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 6 01:53:51 2020 -0600
+
+    se desactivo el envio de email
+
+[33mcommit 1c47149a88f630631670f0899d5014d2faffac5d[m
+Merge: 76e6883 42e09b1
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 6 01:52:39 2020 -0600
+
+    Se agrego el envio del email v0.04
+
+[33mcommit 76e6883912d1c27980a6385dcf9a73f7f62664c4[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 6 01:12:51 2020 -0600
+
+    Se agrego el envio del email v0.01
+
+[33mcommit c2670065b06671cc4cc13eec77fa214a190e2564[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 6 01:17:36 2020 -0600
+
+    SEPARANDO LIST de Cosas del starter
+
+[33mcommit 42e09b11b4f332e17cafc8094cf386a0d644e02c[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Thu Aug 6 01:12:51 2020 -0600
+
+    Se agrego el envio del email v0.01
+
+[33mcommit b393c7d5f7a85d2c440065554afd60b88ffc2986[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Thu Aug 6 00:23:18 2020 -0600
+
+    Error con el register
+
+[33mcommit 49a42e74fe218d4d15357e63019dca5ee1fd1a78[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 5 22:11:05 2020 -0600
+
+    Se Agrego la Notificacion de activacion de cuenta por el ADMIN
+
+[33mcommit 8103fc83d3e86d4c75d6266c2dd80ecd491984da[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Aug 5 22:06:13 2020 -0600
+
+    Agregando tabla a usuarios
+
+[33mcommit ab01770bdd1221a23a72f305e99ef6a2d23c454f[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Aug 5 19:42:15 2020 -0600
+
+    LUIS: error con activo
+
+[33mcommit 713913c9a4e67807923c71c405392fefd1ffddb4[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 5 19:17:54 2020 -0600
+
+    FrontEnd, se agrego aviso de activacion v 0.001
+
+[33mcommit 0cb3804f84e28db14464c478b09b6765bd4495a7[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 5 18:49:16 2020 -0600
+
+    se agrego una vista ActivoAviso V 0.01
+
+[33mcommit 05c537b3070d1874dc93f35b0efbacaa16554925[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Aug 5 17:47:19 2020 -0600
+
+    LUIS: solucinando errores de username
+
+[33mcommit bad6350eff9429f78795e2f847af29485ddd2a7c[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Aug 5 17:42:01 2020 -0600
+
+    LUIS: modificando el registro sin username
+
+[33mcommit de75ca89b3bfc7fb335cbd76d23ecf37dd459ebb[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Aug 5 17:35:56 2020 -0600
+
+    LUIS: modificando el username en el backend
+
+[33mcommit 32d15aafb4891d13390e88398ebb97ac592490e2[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 5 17:08:16 2020 -0600
+
+    Se agrego el Username
+
+[33mcommit 20c0165931d5b46d98cbcc446670fb2aa43b02f9[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 5 17:03:14 2020 -0600
+
+    con el error de username
+
+[33mcommit 89d1c1e4de42aae1e63bef24bd489abdd98d6cd2[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 5 02:18:36 2020 -0600
+
+    MODIFIQUE, se modifico el login, para iniciar sesion se necesita correo y pass
+
+[33mcommit 50ce6d9e31032c8019f4ff076216c294d56d549d[m
+Author: arlex <arlexcaal@gmail.com>
+Date:   Wed Aug 5 02:09:32 2020 -0600
+
+    Add:Modesl:Users, se creo el modelo del usuario,
+
+[33mcommit ca767a3273d5e58c97539f85bd94772affec17ee[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Wed Aug 5 01:59:27 2020 -0600
+
+    add de roles
+
+[33mcommit d8638f4fea0ffbeabddeb7f1f8b09168cd9e4938[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Luis <lgomezm8@miumg.edu.gt>
+Date:   Tue Aug 4 15:56:22 2020 -0600
+
+    Primer Commit

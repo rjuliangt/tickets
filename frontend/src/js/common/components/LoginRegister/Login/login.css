@@ -1,0 +1,67 @@
+.login-overlay .panel-body {
+    min-height: 244px;
+}
+
+.has-feedback {
+    position: relative;
+}
+
+.form-control-feedback {
+    right: 10px;
+    left: auto;
+    top: 10px;
+    position: absolute;
+}
+
+.login-wrapper {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.card-login {
+    border: 0;
+    border-radius: 1rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+}
+
+
+.buttons-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loginAzul {
+    /* background-color: rgba(42, 23, 218, 0.575) !important; */
+    background-color: rgba(4, 119, 220, 0.548) !important;
+    color: white;
+    box-shadow: 0px 0px 12px #000000 !important;
+    border: 2px solid #FFFFFF !important;
+    border-radius: 36px !important;
+    max-width: 400px;
+}
+
+.blue-gradient-bg {
+    background: transparent linear-gradient(90deg, #0571cd 0%, #003c71 100%) 0% 0% no-repeat padding-box;
+    mix-blend-mode: multiply;
+    opacity: 1;
+    height: 100vh;
+    background-image: url(../../img/fondoSoporte.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.login-logo {
+    margin-bottom: 10%;
+}
+
+@media(max-width:411px){
+.img-fluid {
+    width: 50%;
+    height: 50%;
+    margin: 4% auto 0px;
+}
+}

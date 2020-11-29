@@ -1,0 +1,7 @@
+.center {
+    /* background: blue; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center !important;
+    text-align: center;
+}

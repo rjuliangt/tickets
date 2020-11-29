@@ -1,0 +1,42 @@
+.cardStyle {
+    border-left-style: solid;
+    border-left-width: 15px;
+    background-color: rgb(229, 229, 229) !important;
+}
+
+.cardFull {
+    /* border-left-style: solid; */
+    border-left-width: 1px;
+    background-color: rgb(229, 229, 229) !important;
+}
+
+.MargenCheck {
+    padding-left: 11px;
+    padding-top: 59px;
+    padding-right: 11px;
+}
+
+.cardStyle:hover {
+    /* border-left-style: solid; */
+    /* box-sizing: border-box !important; */
+    background-color: rgba(248, 248, 248, 0.7) !important;
+    /* border-bottom: 2px solid #E5E5E5 !important;
+    border-top: 2px solid #E5E5E5 !important;
+    border-right: 2px solid #E5E5E5 !important; */
+}
+
+.limitCaracter {
+    display: block;
+    width: 120px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.margenCard {
+    padding-right: 20.25rem !important;
+}
+
+.tablaTicket .react-bs-table {
+    display: none;
+}

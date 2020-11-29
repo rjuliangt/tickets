@@ -1,0 +1,10 @@
+Dashboard
+Reporteria
+Tickets
+Empresas
+Grupos
+Usuarios
+Puestos
+Proyectos
+Roles
+Propiedad de Tickets

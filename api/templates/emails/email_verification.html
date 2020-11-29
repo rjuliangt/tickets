@@ -1,0 +1,32 @@
+<div style="text-align: center;">
+
+    <h2>Bienvenido {{ user.first_name }} {{ user.last_name }} </h2>
+
+    <h3>¡Gracias por registrar una cuenta en soporte CianCoders!<h3>
+            <h4> Antes de que empecemos, tenemos que confirmar tu correo. 
+            <br>
+            Haz clic en el siguiente enlace para verificar tu correo electrónico:
+            </h4>
+            {% if cambiar %}
+                <p style="text-align: center;">
+                    <a href="{{ link }}"
+                        style="padding: 10px; background-color: #33BEFF; color: white; text-decoration: none; font-weight:bold; ">
+                        Acceder al sistema
+                    </a>
+                </p>
+
+                <p style="text-align: center;">
+                    Tu contraseña es: Temporal
+                </p>
+            {% else %}
+                <p style="text-align: center;">
+                    <a href="{{ link }}"
+                        style="padding: 10px; background-color: #33BEFF; color: white; text-decoration: none; font-weight:bold; ">
+                        Verificar correo Electrónico
+                    </a>
+                </p>
+            {% endif %}
+
+
+
+</div>

@@ -1,0 +1,30 @@
+.side-background {
+    background: #e5e5e5;
+}
+
+.side-background-title {
+    background: #4ac4e8;
+}
+
+.side-background .nav-link:hover {
+    background: white;
+    border-right-style: solid 6px #ff4f00 !important;
+}
+
+.nav-item span {
+    font-size: 12px !important;
+    font-family: "Montserrat-Bold" !important;
+    color: #262626 !important;
+}
+
+
+.reporte_ul{
+
+    list-style: none !important;
+    padding: 0px !important;
+    margin: 0px !important;
+    
+  
+}
+
+
