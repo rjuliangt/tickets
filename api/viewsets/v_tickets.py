@@ -37,7 +37,7 @@ class TicketsViewSet(viewsets.ModelViewSet):
     serializer_class = TicketSerializer
 
     def get_queryset(self):
-        if self.request.user.idRoles.nombre == 'Cliente' and self.action == 'list':
+        if self.request.user.idRoles and self.request.user.idRoles.nombre == 'Cliente' and self.action == 'list':
             return Tickets.objects.filter(activo=True, idUsuarioCliente__pk=self.request.user.id).order_by("-creado")
         else:
             return Tickets.objects.filter(activo=True).order_by("-creado")
